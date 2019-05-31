@@ -1,0 +1,49 @@
+body {
+    background-image: url(img/background.jpg);
+    background-repeat: unset;
+    background-color: beige;
+}
+
+.orderBox {
+    margin: 30px 20px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: beige;
+    border: 3px solid beige;
+    height: 70%;
+    width: 35%;
+    background-blend-mode: darken;
+    background-color: rgb(131, 131, 131);
+}
+
+.finalOrderBox {
+    margin: 30px 20px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border: 3px solid beige;
+    height: 70%;
+    width: 70%;
+    background-blend-mode: darken;
+    background-color: white;
+}
+
+.xlCoffee {
+    width: 140px;
+    height: 230px;
+}
+
+.lCoffee {
+    width: 120px;
+    height: 190px;
+}
+
+.mCoffee {
+    width: 100px;
+    height: 140px;
+}
+
+.sCoffee {
+    width: 80px;
+    height: 100px;
+}
